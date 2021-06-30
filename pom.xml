@@ -20,6 +20,7 @@
 	</properties>
 
 	<dependencies>
+<!--		new project>start.spring.io>Spring Cloud Discovery>Eureka Server, just 1 dependency! -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-eureka-server</artifactId>
